@@ -13,9 +13,15 @@ The purpose of a brain-computer interface (BCI) is to provide a natural or near-
 # RELATED WORKS/MATERIALS
 https://github.com/neuralinterfacinglab/SingleWordProductionDutch
 
+https://www.nature.com/articles/s41597-022-01542-9#Tab1
+
 M. Verwoert, M. C. Ottenhoff, S. Goulis, A. J. Colon, L. Wagner, S. Tousseyn, J. P. van Dijk, P. L. Kubben, and C. Herff, “Dataset of Speech Production in intracranial Electroencephalography,” Scientific Data 2022 9:1, vol. 9, no. 1, pp. 1–9, jul 2022. [Online]. Available: https://www.nature.com/articles/s41597-022-01542-9
 
 Bayram, I. An analytic wavelet transform with a flexible time-frequency covering. IEEE Transactions on Signal Processing 61, 1131–1142 (2012).
+
+# DATA
+
+![image](https://github.com/eva-vision/2BRAINS/assets/52841811/a63151c9-7b32-4f6e-a067-d1205f2aa78e)
 
 
 # FUNCTIONS OF THE FILES

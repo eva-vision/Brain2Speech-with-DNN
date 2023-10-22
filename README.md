@@ -6,6 +6,8 @@ Gulyás Gergely Zoltán - EH9JTC
 
 Imre Krisztián – GSE1U4
 
+Rácskay Zoltán - Gh05T neven futok a jelenléti iveken, de W7HF0A
+
 # BRAIN2SPEECH
 by Bálint Pál Gyires-Tóth - Thursday, 14 September 2023, 9:53 PM
 

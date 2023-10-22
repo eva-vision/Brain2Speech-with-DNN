@@ -34,8 +34,8 @@ Bayram, I. An analytic wavelet transform with a flexible time-frequency covering
 
 'extract_features.py' loads, extracts and prepares the raw data from the zipped data file available on https://osf.io/nrgx6/
 
-'project milestone 1' CoLab notebook.
+'project_milestone_1.ipynb' CoLab notebook.
 
 # HOW TO RUN IT
 
-Run 'project milestone 1' in CoLab.
+Run 'project_milestone_1.ipynb' in CoLab.

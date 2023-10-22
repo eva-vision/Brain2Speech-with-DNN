@@ -24,6 +24,9 @@ Bayram, I. An analytic wavelet transform with a flexible time-frequency covering
 
 # DATA
 
+Unzipped data: https://drive.google.com/drive/folders/1HADo-6zYyCN2Ygki20LD8yp2f9cNhbst?usp=sharing
+
+
 ![image](https://github.com/eva-vision/2BRAINS/assets/52841811/a63151c9-7b32-4f6e-a067-d1205f2aa78e)
 
 

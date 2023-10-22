@@ -3,6 +3,7 @@ Budapest University of Technology / Deep Learning Projectwork
 
 # MEMBERS
 Gulyás Gergely Zoltán - EH9JTC 
+
 Imre Krisztián – GSE1U4
 
 # BRAIN2SPEECH

@@ -30,4 +30,10 @@ Bayram, I. An analytic wavelet transform with a flexible time-frequency covering
 
 # FUNCTIONS OF THE FILES
 
+'MelFilterBank.py' makes Mel filtering on the audio data.
+'Requirements.txt' contains the dependencies.
+'extract_features.py' loads, extracts and prepares the raw data from the zipped data file available on https://osf.io/nrgx6/   
+
 # HOW TO RUN IT
+
+Import the Python files to CoLabs. 

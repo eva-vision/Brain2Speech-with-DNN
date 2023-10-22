@@ -35,7 +35,8 @@ class MelFilterBank():
         
         self.melInvMatrix = self.melMatrix.transpose()
         self.melInvMatrix = self.makeNormal(self.melInvMatrix / self.normSum(self.melInvMatrix))
-        
+
+    
     def normSum(self, x):
         retSum = np.sum(x, axis = 0)
         retSum[np.where(retSum == 0)] = 1.0

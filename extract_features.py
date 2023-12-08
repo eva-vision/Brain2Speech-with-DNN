@@ -103,7 +103,7 @@ def downsampleLabels(labels, sr, windowLength=0.05, frameshift=0.01):
     for w in range(numWindows):
         start = int(np.floor((w*frameshift)*sr))
         stop = int(np.floor(start+windowLength*sr))
-        newLabels[w]=scipy.stats.mode(labels[start:stop])[0][0].encode("ascii", errors="ignore").decode()
+        newLabels[w]=np.stats.mode(labels[start:stop])[0][0].encode("ascii", errors="ignore").decode()
     return newLabels
 
 def extractMelSpecs(audio, sr, windowLength=0.05, frameshift=0.01):

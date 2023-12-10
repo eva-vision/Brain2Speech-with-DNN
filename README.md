@@ -34,6 +34,8 @@ Bayram, I. An analytic wavelet transform with a flexible time-frequency covering
 
 'Baseline.ckpt' is a checkpoint for the baseline FC-DNN regression.
 
+'Documentation' is a simple project presentation in pdf format.
+
 'Final.ípynb' contains an FC-DNN based regression using 5 fold cross-validation.
 
 'Final.ckpt' is a checkpoint for the final FC-DNN regression.

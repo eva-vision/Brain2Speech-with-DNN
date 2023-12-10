@@ -24,14 +24,30 @@ Bayram, I. An analytic wavelet transform with a flexible time-frequency covering
 
 # FUNCTIONS OF THE FILES
 
-'MelFilterBank.py' makes Mel filtering on the audio data.
+'docker' folder contains all the necessary files for Docker containerisation.
+  'Dockerfile' 
+  'docker-compose.yml'
+  'final.py' contains the same solution as Final.ipynb
+  'requirements.txt' contains the dependencies.
 
-'Requirements.txt' contains the dependencies.
+'Baseline.ipynb' contains a simple FC-DNN based regression.
+
+'Baseline.ckpt' is a checkpoint for the baseline FC-DNN regression.
+
+'Final.ípynb' contains an FC-DNN based regression using 5 fold cross-validation.
+
+'Final.ckpt' is a checkpoint for the final FC-DNN regression.
+
+'MelFilterBank.py' makes Mel filtering on the audio data.
 
 'extract_features.py' loads, extracts and prepares the raw data from the zipped data file available on https://osf.io/nrgx6/
 
 'project_milestone_1.ipynb' CoLab notebook.
 
+'reconstructWave.py' creates a .wav file from spectrogram data.
+
 # HOW TO RUN IT
 
-Run 'project_milestone_1.ipynb' in CoLab.
+Run 'Final.ipynb' in CoLab or use the Docker files in your own environment.
+
+

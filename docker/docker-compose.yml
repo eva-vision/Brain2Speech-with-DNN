@@ -1,0 +1,9 @@
+version: "3"
+services:
+  brain-to-speech-uplink:
+    # if something fails or the server is restarted, the container will restart
+    restart: always 
+    container_name: brain-to-speech-uplink
+    image: brain-to-speech-uplink
+    build: 
+      context: . 

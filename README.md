@@ -1,4 +1,4 @@
-# 2BRAINS
+# BRAIN2SPEECH WITH DNN
 Budapest University of Technology / Deep Learning Projectwork
 
 # MEMBERS

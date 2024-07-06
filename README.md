@@ -50,6 +50,8 @@ Bayram, I. An analytic wavelet transform with a flexible time-frequency covering
 
 # HOW TO RUN IT
 
-Run 'Final.ipynb' in CoLab or use the Docker files in your own environment.
+Run 'Final_B2S.ipynb' in CoLab or use the Docker files in your own environment.
 
+# FUTURE FIX
 
+Good chance of overfitting. Improve train/test split and training loops. 
